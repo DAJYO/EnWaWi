@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212850643110",
+    "project_id": "enwawi-8cdd0",
+    "storage_bucket": "enwawi-8cdd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212850643110:android:e59105d88cec39b59a6467",
+        "android_client_info": {
+          "package_name": "com.example.agri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjp3aNyh2zF-dTDxYEy4HD_KG1tB68gDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
